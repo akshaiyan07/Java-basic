@@ -1,7 +1,12 @@
 # Java Basic Programming
 
 ## Overview
-This README file provides a comprehensive guide to getting started with basic programming in Java. Java is a versatile, object-oriented programming language widely used for developing applications ranging from web to mobile and desktop.
+This README provides an overview of basic programming in Java.
+
+Java is a powerful and versatile object-oriented programming language, ideal for creating applications across various platforms, including web, mobile, and desktop.
+
+What's Included
+This repository contains all the programs I created during my learning journey. These programs demonstrate the foundational concepts of Java programming and reflect my progress as I explored the language.
 
 ---
 
@@ -176,7 +181,7 @@ public class Main {
 
 ## Resources
 - [Java Programming Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
-- Lectures from my college and a help from AI.
+- Lectures from college.
 
 
 
